@@ -21,3 +21,6 @@ As a Front-End development student, it was a perfect exercise to pratice what I 
 # Visual
 
 <img src="./images/rcNameGeneratorREADME.png">
+
+## Hosted
+here => https://k0ly0k0lev.github.io/rc-name-generator/
